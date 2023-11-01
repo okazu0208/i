@@ -1,0 +1,4 @@
+import scratchattach as scratch3
+session = scratch3.Session(".eJxVT0tLxDAQ_i89a22TtCR7WwVdEMQHHtxLmU2mbbZtUpqUguJ_dyJ72cPAzPfim59sDbg4mDDbZUEvEHX_uvimYNlN1sAa-yYJGmuIV0pwVtYlURFD1N4PNvk2vwxorg0n0AO65EoYumg1ROtdfiFC_o7zeAHvL2LK9bSQqVIMoJWmrYELlCVIbgrVSjBSSMPa3bZnffH5sIVnyR6Ph9kfDQrx8XZ4ChQz-s66Wzv_J-WlKnIlciZTxRFct0KXep-BAHMmwDfRTvjtXYL3Ey5U7O4Ft-aLXrt-rIfQk0iA0tTRgOG1EZqLQgmaihuNZVtxVEBXUWe_fwB_cos:1qqsON:b1jCVuvLLMqd1vcCks8tfyuZKk4", username="scratchPro_02") #replace with your session_id and username
+conn = session.connect_cloud("908293721")
+conn.set_var("date", "132")
